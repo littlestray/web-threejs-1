@@ -1,6 +1,6 @@
 export default {
     server: {
-      origin: 'http://gamerjazz.net/vite-lite/'
+      origin: 'http://gamerjazz.net/'
     },
-    base: "/vite-test/"
+    base: "./vite-test/"
   }

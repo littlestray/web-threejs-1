@@ -1,5 +1,4 @@
 import './style.css'
-import model from './web-2.gltf'
 import * as THREE from "three"
 import {OrbitControls} from './node_modules/three/examples/jsm/controls/OrbitControls.js';
 import {GLTFLoader} from './node_modules/three//examples/jsm/loaders/GLTFLoader.js';
